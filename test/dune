@@ -1,0 +1,5 @@
+(test
+ (name test_maze)
+ (libraries labyrinth)
+ (deps
+  (glob_files %{project_root}/examples/*.laby)))
