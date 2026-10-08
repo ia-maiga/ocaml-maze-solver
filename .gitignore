@@ -1,0 +1,19 @@
+# Build output (dune)
+_build/
+*.install
+
+# Compiled OCaml files
+*.cmi
+*.cmo
+*.cmx
+*.cmt
+*.cmti
+*.o
+*.exe
+maze
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
